@@ -1,0 +1,36 @@
+package com.hibernatetut;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+import com.hibernatetut.model.EmpModel;
+import com.hibernatetut.model.ProjectsModel;
+
+public class ProjectsAndEmpTest {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		cfg.configure("hibernate.cfg.xml");
+	    SessionFactory factory = cfg.buildSessionFactory();
+	    Session session = factory.openSession();
+		/*
+		 * ProjectsModel p1 = new ProjectsModel(); ProjectsModel p2 = new
+		 * ProjectsModel(); EmpModel e1 = new EmpModel(); EmpModel e2 = new EmpModel();
+		 * List<ProjectsModel> projectList = new ArrayList<>(); List<EmpModel> empList =
+		 * new ArrayList<>(); p1.setProjectId(1); p1.setProjectName("AI project");
+		 * p2.setProjectId(2); p2.setProjectName("Game project"); e1.setEmpId(1);
+		 * e1.setEmpName("navi"); e2.setEmpId(2); e2.setEmpName("ravi");
+		 * empList.add(e1); empList.add(e2); projectList.add(p1); projectList.add(p2);
+		 * e1.setProjectModel(projectList); e2.setProjectModel(projectList);
+		 * p1.setEmpModel(empList); p2.setEmpModel(empList); Transaction tx =
+		 * session.beginTransaction(); session.save(e1); session.save(e2);
+		 * session.save(p1); session.save(p2); tx.commit();
+		 */
+	    ProjectsModel p1 = session.get(ProjectsModel.class, 1);
+	    session.close();
+	}
+}

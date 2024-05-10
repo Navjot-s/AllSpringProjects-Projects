@@ -1,0 +1,5 @@
+spring.application.name=CrudApplicationUsingAngular
+spring.datasource.url=jdbc:mysql://localhost:3306/crud_with_angular
+spring.datasource.username=root
+spring.datasource.password=root
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver

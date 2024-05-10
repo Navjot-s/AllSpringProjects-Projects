@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hibernatetut/src/main/java/Screenshot from 2023-01-28 13-42-04.png&apos; to &apos;1.png&apos;" description="Rename resource &apos;Screenshot from 2023-01-28 13-42-04.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/Screenshot from 2023-01-28 13-42-04.png" name="1.png" stamp="1674922681357" updateReferences="true"/>
+</session>

@@ -1,0 +1,9 @@
+
+†
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.8ê˙È¥«1b dee1a9dfa91ea501126d7a4ecdad8cd0h
+^	java:S106#"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+î
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").8Ç¬È¥«1b 43741497f0bdb2fca2e236c0b9c8bc87h
+ç
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.8ê˙È¥«1b 588799d9696a284cafa04e38623e3a10h
+^	java:S106"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

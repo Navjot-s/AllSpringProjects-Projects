@@ -1,0 +1,5 @@
+package com.xml.mapping;
+
+public class Person {
+
+}

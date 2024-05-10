@@ -1,0 +1,793 @@
+2024-04-30 23:30:37,657 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-30 23:49:29,561 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-04-30 23:49:30,730 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-04-30 23:49:30,732 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:49:30,735 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:49:30,739 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-04-30 23:49:30,740 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-04-30 23:49:31,465 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-04-30 23:49:31,471 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-30 23:49:32,004 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-04-30 23:49:32,454 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-04-30 23:49:32,454 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:49:32,455 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:49:32,456 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-04-30 23:49:32,457 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-04-30 23:49:33,357 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-04-30 23:49:34,571 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:49:34,599 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:49:34,610 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/src/test/resources
+2024-04-30 23:50:20,892 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:50:20,907 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:50:20,921 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/src/test/resources
+2024-04-30 23:51:02,579 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:51:02,657 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:51:02,669 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/src/test/resources
+2024-04-30 23:51:19,163 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:51:19,169 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:51:19,179 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/src/test/resources
+2024-04-30 23:52:04,069 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:52:04,075 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:52:04,079 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/src/test/resources
+2024-04-30 23:53:46,299 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:53:46,300 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:53:46,305 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-04-30 23:53:49,804 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:53:49,805 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:53:49,810 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-04-30 23:53:59,603 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-04-30 23:54:00,343 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-04-30 23:54:00,794 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-04-30 23:54:00,795 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:54:00,796 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-04-30 23:54:00,796 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-04-30 23:54:00,797 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-04-30 23:54:01,156 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-04-30 23:54:01,499 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:54:01,521 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:54:01,527 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-04-30 23:57:26,872 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:57:26,940 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:57:26,960 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-04-30 23:57:58,256 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-04-30 23:57:58,266 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-04-30 23:57:58,274 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:00:30,798 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:00:30,808 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:00:30,816 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:01:22,825 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:01:22,831 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:01:22,834 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:01:38,082 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:01:38,095 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:01:38,103 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:01:45,805 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:01:45,947 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:01:45,964 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:03:43,917 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:03:43,929 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:03:43,939 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:04:19,014 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:04:19,024 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:04:19,032 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:04:56,319 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:04:56,327 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:04:56,332 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:05:02,077 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:05:02,087 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:05:02,094 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:05:05,794 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:05:05,824 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:05:05,832 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:06:00,800 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:06:00,805 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:06:00,810 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:06:37,331 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:06:37,338 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:06:37,344 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:07:07,244 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:07:07,255 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:07:07,265 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:07:59,700 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:07:59,709 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:07:59,716 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:09:30,302 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:09:30,308 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:09:30,312 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:12:13,883 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:12:13,893 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:12:13,901 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:16:20,299 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:16:20,313 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:16:20,321 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:20:12,646 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:20:12,655 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:20:12,662 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:20:51,530 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:20:51,536 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:20:51,542 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:21:14,806 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:21:14,838 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:21:14,853 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:21:15,938 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:21:15,944 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:21:15,949 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:21:41,683 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:21:41,693 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:21:41,702 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:21:53,977 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:21:53,987 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:21:53,996 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:23:02,538 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:23:02,547 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:23:02,555 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:23:06,021 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:23:06,033 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:23:06,041 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 00:30:59,895 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 00:30:59,903 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 00:30:59,910 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:37:06,324 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-01 21:37:35,935 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:37:36,418 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:37:36,439 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:38:32,080 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:38:32,088 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:38:32,095 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:44:54,754 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:44:54,766 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:44:54,782 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:45:24,530 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:45:24,536 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:45:24,540 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:49:36,141 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:49:36,146 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:49:36,149 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:51:21,404 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:51:21,415 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:51:21,428 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:53:39,528 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:53:39,534 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:53:39,540 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:54:05,372 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:54:05,384 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:54:05,392 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:54:43,457 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:54:43,465 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:54:43,470 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:55:46,777 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:55:46,788 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:55:46,802 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:55:59,126 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:55:59,132 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:55:59,135 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:57:06,008 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:57:06,013 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:57:06,017 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:58:15,042 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:58:15,055 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:58:15,066 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:58:33,207 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:58:33,211 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:58:33,215 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 21:59:28,388 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 21:59:28,391 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 21:59:28,396 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:00:02,077 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:00:02,082 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:00:02,085 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:20:42,602 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:20:42,615 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:20:42,628 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:22:27,590 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:22:27,597 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:22:27,600 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:22:56,705 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:22:56,715 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:22:56,723 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:23:49,585 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:23:49,595 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:23:49,604 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:24:31,818 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:24:31,829 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:24:31,843 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:25:49,692 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:25:49,709 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:25:49,720 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-01 22:27:51,188 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-01 22:27:51,197 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-01 22:27:51,204 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 20:46:39,354 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-02 20:47:00,046 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 20:47:00,223 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 20:47:00,245 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 20:50:30,140 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 20:50:30,157 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 20:50:30,175 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 20:59:33,675 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 21:00:15,904 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:00:15,905 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:00:15,917 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:00:20,333 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:00:20,851 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:00:20,859 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:02:49,217 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 21:03:26,086 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 21:03:26,694 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:03:26,695 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:03:26,699 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:03:28,898 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:03:28,929 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:03:28,934 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:06:30,264 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:06:30,279 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:06:30,291 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:27:44,842 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:27:44,854 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:27:44,865 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:27:49,289 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:27:49,300 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:27:49,308 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:29:14,843 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:29:14,894 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:29:14,900 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:31:41,308 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:31:41,315 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:31:41,320 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:31:50,751 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:31:50,763 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:31:50,773 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:32:32,738 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:32:32,744 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:32:32,746 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:37:30,834 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:37:30,845 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:37:30,854 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:40:58,883 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:40:58,895 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:40:58,912 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:42:12,975 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 21:42:13,294 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:42:13,295 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:42:13,298 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 21:42:32,297 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-02 21:42:32,628 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 21:42:32,876 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-05-02 21:42:32,878 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 21:42:32,879 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 21:42:32,879 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-05-02 21:42:32,880 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-05-02 21:42:33,430 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-05-02 21:42:33,736 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 21:42:33,746 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 21:42:33,750 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 23:22:49,723 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-02 23:22:49,732 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-02 23:22:49,737 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-02 23:31:04,529 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-02 23:32:05,078 [Worker-5: Build] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 23:32:07,816 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-02 23:32:07,895 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 23:32:08,961 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:32:08,962 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:32:08,963 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-05-02 23:32:09,778 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-05-02 23:33:42,217 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1602])
+2024-05-02 23:33:42,221 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-02 23:33:42,221 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-02 23:33:42,221 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-02 23:33:42,222 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-02 23:33:42,222 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-02 23:33:42,222 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-02 23:33:42,223 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-02 23:33:42,223 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-02 23:33:42,223 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-02 23:33:42,223 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-02 23:33:42,223 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-02 23:33:42,224 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-02 23:33:42,224 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-02 23:33:42,224 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-02 23:33:42,225 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-02 23:33:42,225 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-02 23:33:42,225 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-02 23:33:42,225 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-02 23:33:42,226 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-02 23:33:42,226 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-02 23:33:42,226 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-02 23:33:42,226 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-02 23:33:42,227 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-02 23:33:42,227 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-02 23:33:42,227 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-02 23:33:42,228 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-02 23:33:42,228 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-02 23:33:42,228 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-02 23:33:42,229 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-02 23:33:42,229 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-02 23:33:42,229 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-02 23:33:42,230 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-02 23:33:42,230 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-02 23:33:42,231 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-02 23:33:42,231 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-02 23:33:42,231 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-02 23:33:42,232 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-02 23:33:42,232 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-02 23:33:42,232 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-02 23:33:42,232 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-02 23:33:42,233 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-02 23:33:42,233 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-02 23:33:42,235 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [1054])
+2024-05-02 23:33:42,236 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-02 23:33:42,236 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1879])
+2024-05-02 23:33:42,236 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/slf4j.api_2.0.12.jar
+2024-05-02 23:33:42,236 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [31])
+2024-05-02 23:33:42,236 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2024-05-02 23:33:42,237 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1076])
+2024-05-02 23:33:42,237 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.annotation_1.3.5.v20230504-0748.jar
+2024-05-02 23:33:42,237 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [1099])
+2024-05-02 23:33:42,237 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-02 23:33:42,237 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [1102])
+2024-05-02 23:33:42,238 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-02 23:33:42,238 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [1107])
+2024-05-02 23:33:42,238 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-02 23:33:42,238 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [1055])
+2024-05-02 23:33:42,238 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-02 23:33:42,246 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App":
+2024-05-02 23:33:42,293 [Worker-24: Launching Executing clean in _home_navjot_eclipse-workspace_e-commerce-app-with-angular_E-Commerce-App] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always clean
+2024-05-02 23:33:48,725 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-02 23:33:57,321 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1602])
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-02 23:33:57,322 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-02 23:33:57,323 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-02 23:33:57,324 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [1054])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1879])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/slf4j.api_2.0.12.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [31])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1076])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.annotation_1.3.5.v20230504-0748.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [1099])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [1102])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [1107])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [1055])
+2024-05-02 23:33:57,325 [Worker-18: Launching E-Commerce-App] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-02 23:33:57,326 [Worker-18: Launching E-Commerce-App] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App":
+2024-05-02 23:33:57,326 [Worker-18: Launching E-Commerce-App] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2024-05-02 23:33:57,326 [Worker-18: Launching E-Commerce-App] WARN  o.e.m.i.l.MavenLaunchExtensionsSupport - Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+2024-05-02 23:35:56,269 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 23:36:00,711 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.pom
+2024-05-02 23:36:00,727 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.pom
+2024-05-02 23:36:01,915 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar
+2024-05-02 23:36:05,100 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-02 23:36:06,420 [Worker-2: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar
+2024-05-02 23:36:28,071 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30-sources.jar
+2024-05-02 23:36:30,572 [Worker-27: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30-sources.jar
+2024-05-02 23:36:30,573 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for mysql:mysql-connector-java:8.0.30
+2024-05-02 23:36:30,946 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:36:30,947 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:36:30,985 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:36:31,190 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:36:31,202 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:36:31,202 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:36:31,203 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:36:31,295 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1602])
+2024-05-02 23:36:31,297 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-02 23:36:31,297 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-02 23:36:31,297 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-02 23:36:31,298 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-02 23:36:31,299 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-02 23:36:31,299 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-02 23:36:31,299 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-02 23:36:31,299 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-02 23:36:31,299 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-02 23:36:31,300 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-02 23:36:31,301 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-02 23:36:31,301 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-02 23:36:31,301 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-02 23:36:31,301 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-02 23:36:31,301 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-02 23:36:31,302 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-02 23:36:31,302 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-02 23:36:31,302 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-02 23:36:31,302 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-02 23:36:31,302 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-02 23:36:31,303 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-02 23:36:31,304 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-02 23:36:31,304 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-02 23:36:31,304 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-02 23:36:31,304 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-02 23:36:31,304 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-02 23:36:31,305 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-02 23:36:31,305 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [1054])
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1879])
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/slf4j.api_2.0.12.jar
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [31])
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1076])
+2024-05-02 23:36:31,306 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.annotation_1.3.5.v20230504-0748.jar
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [1099])
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [1102])
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [1107])
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-02 23:36:31,307 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [1055])
+2024-05-02 23:36:31,308 [Worker-26: Launching E-Commerce-App (1)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-02 23:36:31,309 [Worker-26: Launching E-Commerce-App (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App":
+2024-05-02 23:36:31,309 [Worker-26: Launching E-Commerce-App (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install 
+2024-05-02 23:36:32,304 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:36:32,304 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:36:32,305 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:36:32,307 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:36:32,312 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:36:32,312 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:36:32,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:40:52,221 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:40:52,222 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:40:52,223 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:40:52,225 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:40:52,232 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:40:52,232 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:40:52,233 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:41:26,549 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-02 23:41:26,842 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 23:41:27,107 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-05-02 23:41:27,108 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:41:27,108 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:41:27,108 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-05-02 23:41:27,108 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-05-02 23:41:27,267 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-05-02 23:41:27,642 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:41:27,642 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:41:27,643 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:41:27,650 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:41:27,653 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:41:27,653 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:41:27,653 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:42:08,359 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:42:08,359 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:42:08,360 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:42:08,364 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:42:08,367 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:42:08,367 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:42:08,367 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:42:36,464 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:42:36,465 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:42:36,466 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:42:36,475 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:42:36,484 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:42:36,484 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:42:36,485 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:43:11,638 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:43:11,639 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:43:11,639 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:43:11,645 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:43:11,648 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:43:11,649 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:43:11,649 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:45:13,219 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:45:13,220 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:45:13,220 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:45:13,227 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:45:13,231 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:45:13,231 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:45:13,231 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:45:45,886 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:45:45,887 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:45:45,888 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:45:45,899 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:45:45,910 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:45:45,910 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:45:45,911 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:47:19,164 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-05-02 23:47:28,651 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1602])
+2024-05-02 23:47:28,651 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-02 23:47:28,652 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [1054])
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-02 23:47:28,653 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1879])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/slf4j.api_2.0.12.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [31])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.inject_1.0.0.v20220405-0441.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1076])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/javax.annotation_1.3.5.v20230504-0748.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [1099])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [1102])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [1107])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [1055])
+2024-05-02 23:47:28,654 [Worker-35: Launching E-Commerce-App (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /home/navjot/.p2/pool/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-02 23:47:28,655 [Worker-35: Launching E-Commerce-App (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App":
+2024-05-02 23:47:28,655 [Worker-35: Launching E-Commerce-App (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean install
+2024-05-02 23:48:44,690 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-02 23:48:45,599 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:E-Commerce-App:0.0.1-SNAPSHOT @ /home/navjot/eclipse-workspace/e-commerce-app-with-angular/E-Commerce-App/pom.xml.
+2024-05-02 23:48:45,967 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/main/java
+2024-05-02 23:48:45,967 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:48:45,967 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/main/resources
+2024-05-02 23:48:45,967 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-App/src/test/java
+2024-05-02 23:48:45,967 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-App/src/test/resources
+2024-05-02 23:48:46,079 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-05-02 23:48:46,428 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:48:46,428 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:48:46,428 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:48:46,436 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:48:46,439 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:48:46,439 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:48:46,439 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:49:44,123 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-02 23:56:58,290 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:56:58,291 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:56:58,294 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-02 23:56:58,316 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-02 23:56:58,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-02 23:56:58,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-02 23:56:58,321 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:07:16,043 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:07:16,043 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:07:16,046 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:07:16,054 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:07:16,060 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:07:16,060 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:07:16,060 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:07:40,165 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:07:40,165 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:07:40,166 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:07:40,178 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:07:40,191 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:07:40,191 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:07:40,192 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:08:06,006 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:08:06,006 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:08:06,007 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:08:06,019 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:08:06,034 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:08:06,035 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:08:06,036 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:08:14,627 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:08:14,627 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:08:14,629 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:08:14,641 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:08:14,652 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:08:14,652 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:08:14,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:11:07,678 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:11:07,679 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:11:07,706 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:11:07,745 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:11:07,775 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:11:07,775 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:11:07,777 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:13:12,007 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:13:12,008 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:13:12,011 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:13:12,029 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:13:12,052 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:13:12,052 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:13:12,054 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:23:15,013 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:23:15,014 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:23:15,016 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:23:15,028 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:23:15,036 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:23:15,036 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:23:15,037 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:25:21,757 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:25:21,757 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:25:21,758 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:25:21,763 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:25:21,769 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:25:21,769 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:25:21,769 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:29:53,695 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:29:53,695 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:29:53,696 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:29:53,706 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:29:53,717 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:29:53,718 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:29:53,718 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:29:58,013 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:29:58,013 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:29:58,014 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:29:58,019 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:29:58,024 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:29:58,024 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:29:58,025 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:01,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:01,691 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:01,692 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:34:01,701 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:01,712 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:01,713 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:01,713 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:10,013 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:10,013 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:10,013 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:34:10,019 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:10,025 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:10,025 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:10,026 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:24,270 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:24,270 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:24,270 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:34:24,277 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:34:24,281 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:34:24,282 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:34:24,282 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:36:06,859 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:36:06,860 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:36:06,861 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-03 00:36:06,871 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-03 00:36:06,885 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-03 00:36:06,886 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-03 00:36:06,887 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:10:05,047 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-04 20:12:07,847 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:12:07,858 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:12:07,862 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:12:07,910 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:12:07,915 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:12:07,915 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:12:07,915 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:16:24,102 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:16:24,103 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:16:24,107 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:16:24,117 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:16:24,122 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:16:24,122 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:16:24,123 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:22:10,999 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:22:11,000 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:22:11,000 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:22:11,005 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:22:11,008 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:22:11,008 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:22:11,008 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:24:47,029 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:24:47,030 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:24:47,030 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:24:47,037 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:24:47,041 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:24:47,041 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:24:47,042 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:34:11,568 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:34:11,568 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:34:11,569 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:34:11,581 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:34:11,593 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:34:11,594 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:34:11,595 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:35:04,798 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:35:04,798 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:35:04,799 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:35:04,808 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:35:04,816 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:35:04,816 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:35:04,817 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:36:54,739 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:36:54,740 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:36:54,741 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:36:54,750 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:36:54,756 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:36:54,757 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:36:54,757 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:43:46,881 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:43:46,881 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:43:46,881 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:43:46,888 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:43:46,892 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:43:46,892 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:43:46,893 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:48:25,173 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:48:25,173 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:48:25,174 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:48:25,180 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:48:25,184 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:48:25,184 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:48:25,184 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:48:28,819 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:48:28,819 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:48:28,820 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-04 20:48:28,823 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-04 20:48:28,826 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-04 20:48:28,826 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-05-04 20:48:28,826 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

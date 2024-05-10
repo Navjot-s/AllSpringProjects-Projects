@@ -1,0 +1,24 @@
+package com.hibernatetut;
+
+import java.util.List;
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class QueryRunner {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		cfg.configure("hibernate.cfg.xml");
+		SessionFactory sessionFactory = cfg.buildSessionFactory();
+		Session s = sessionFactory.openSession();
+		String query = "from StudentModel s where s.studentId =:x";
+		Query q = s.createQuery(query);
+		q.setParameter("x", 1);
+		List<StudentModel> studentList = q.list();
+		for(StudentModel student : studentList) {
+			System.out.println("Id of the student is " +student.getStudentId() +"and the name is "+student.getStudentId());
+		}
+	}
+}

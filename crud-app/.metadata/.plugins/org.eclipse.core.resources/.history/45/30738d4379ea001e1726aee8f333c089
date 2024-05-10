@@ -1,0 +1,21 @@
+package com.example.springwithangular.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.springwithangular.entity.Customer;
+import com.example.springwithangular.repository.CustomerRepository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class CustomerService {
+
+	@Autowired
+	private CustomerRepository customerRepository;
+	
+	public Customer postCustomer(Customer customer) {
+		return customerRepository.save(customer);
+	}
+}

@@ -1,0 +1,48 @@
+package com.hibernatetut;
+
+import java.util.List;
+
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+public class QueryRunner {
+	public static void main(String[] args) {
+		Configuration cfg = new Configuration();
+		cfg.configure("hibernate.cfg.xml");
+		SessionFactory sessionFactory = cfg.buildSessionFactory();
+		Session s = sessionFactory.openSession();
+		Transaction tx = s.beginTransaction();
+		/* Select data
+		 * String query = "from StudentModel s where s.studentId =:x";
+		Query q = s.createQuery(query);
+		q.setParameter("x", 1);
+		List<StudentModel> studentList = q.list();
+		for(StudentModel student : studentList) {
+			System.out.println("Id of the student is " +student.getStudentId() +"and the name is "+student.getStudentId());
+		}*/
+		
+		/* delete data
+		String query = "delete from StudentModel s where s.studentId=:x";
+		Query q = s.createQuery(query);
+		q.setParameter("x", 3);
+		int count = q.executeUpdate();
+		System.out.println(count);
+		*/
+		
+		/*update data
+		 
+		*/
+		String query = "update StudentModel s set s.studentCity=:x where s.studentId=:y";
+		Query q = s.createQuery(query);
+		q.setParameter("x","Moga");
+		q.setParameter("y", 2);
+		int count = q.executeUpdate();
+		System.out.println(count);
+		tx.commit();
+		sessionFactory.close();
+	}
+}

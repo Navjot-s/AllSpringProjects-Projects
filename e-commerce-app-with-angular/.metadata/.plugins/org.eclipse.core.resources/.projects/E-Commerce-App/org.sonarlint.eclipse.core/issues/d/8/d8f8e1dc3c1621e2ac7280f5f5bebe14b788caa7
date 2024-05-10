@@ -1,0 +1,14 @@
+
+e	java:S106+"+Replace this use of System.out by a logger.8Ü¹Ý ô1b bb1c3f2ea781263d3a2bb92b06a2061fh
+e	java:S106."+Replace this use of System.out by a logger.8Ü¹Ý ô1b bb1c3f2ea781263d3a2bb92b06a2061fh
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8ÓÄ¬¡ô1b 0132ec8cee01c5dd244e1a60fe6448a1h
+e	java:S106)"+Replace this use of System.out by a logger.8ÓÄ¬¡ô1b bb1c3f2ea781263d3a2bb92b06a2061fh
+
+java:S25830"DChange this condition so that it does not always evaluate to "false"8¶Ö½¡ô1b 5b580c1b798c60c3910c364761a0842fh
+}
+java:S6813"BRemove this field injection and use constructor injection instead.8¶Ö½¡ô1b 0132ec8cee01c5dd244e1a60fe6448a1h
+z
+java:S18541"?Remove this useless assignment to local variable "userDetails".8¶Ö½¡ô1b 84c538f863d1f954b83dcae5ac80b736h
+k
+java:S14811"0Remove this unused "userDetails" local variable.8¶Ö½¡ô1b 74bcc562f607db9221832d875a100a44h

@@ -1,0 +1,37 @@
+package com.restaurant.service.auth;
+
+import com.restaurant.dtos.SignupRequest;
+import com.restaurant.dtos.UserDto;
+import com.restaurant.model.UserModel;
+import com.restaurant.repositories.UserRepository;
+
+public class AuthServiceImplementation implements AuthService{
+
+private final UserRepository userRepository;
+	
+	//private final BCryptPasswordEncoder bCryptPasswordEncoder;
+	
+	public AuthServiceImplementation(UserRepository userRepository 
+			/*BCryptPasswordEncoder bCryptPasswordEncoder*/
+			) {
+//		this.bCryptPasswordEncoder = bCryptPasswordEncoder;
+		this.userRepository = userRepository;
+	}
+	
+	@Override
+	public UserDto createUser(SignupRequest signupRequest) {
+		UserModel createdUserModel = new UserModel();
+		createdUserModel.setName(signupRequest.getName());
+		createdUserModel.setPassword(signupRequest.getPassword());
+		createdUserModel.setEmail(signupRequest.getEmai());
+		//createdUserModel.setUserRole(UserRole.CUSTOMER);
+		userRepository.save(createdUserModel);
+		UserDto createdUserDto = new UserDto();
+		createdUserDto.setId(createdUserModel.getId());
+		createdUserDto.setName(createdUserModel.getName());
+		createdUserDto.setEmail(createdUserModel.getEmail());
+		//createdUserDto.setUserRole(createdUserModel.getUserRole());
+		return createdUserDto;
+	}
+	
+}
